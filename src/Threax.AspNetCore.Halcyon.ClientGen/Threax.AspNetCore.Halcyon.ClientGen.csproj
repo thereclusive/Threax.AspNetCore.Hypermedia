@@ -6,7 +6,7 @@
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <AssemblyName>Threax.AspNetCore.Halcyon.ClientGen</AssemblyName>
     <PackageId>Threax.AspNetCore.Halcyon.ClientGen</PackageId>
-    <Version>14.0.0</Version>
+    <Version>14.1.0</Version>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <IncludeSymbols>True</IncludeSymbols>
     <IncludeSource>True</IncludeSource>
@@ -16,6 +16,7 @@
     <Description>Client generator for halcyon apis.</Description>
     <PackageReleaseNotes>Use fetcher package directly in typescript clients.</PackageReleaseNotes>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <AssemblyVersion>14.1.0.0</AssemblyVersion>
   </PropertyGroup>
 
   <ItemGroup>
